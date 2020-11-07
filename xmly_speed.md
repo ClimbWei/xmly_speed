@@ -38,7 +38,7 @@
 - fork 本项目
 - Secrets 新增 `XMLY_SPEED_COOKIE`，填入cookie信息 ，多账号换行
 - star一下，立即执行，观察运行情况
--  **必须**  修改一次文件（比如自己库中的README.md文件）才能定时运行   (！！！！不要再问为什么不能自动运行;不懂不要修改cron )  
+-  **必须**  修改一次文件（比如自己库中的README.md文件）才能定时运行   (！！！不要再问为什么不能自动运行;不懂不要修改cron )  
 - 需要刷时长的，Secrets 新增 `XMLY_ACCUMULATE_TIME`，填入`zero_s1`；可能会黑号，请知悉
 
 2、下载到本地运行   
